@@ -21,7 +21,7 @@ Este repositório contém códigos em C para atividades da disciplina LP1.
    ```
 
 
-2. **Para cada atividade na pasta `atividades/` faça como o exemplo abaixo: **:
+2. **Para cada atividade na pasta `atividades/` faça como o exemplo abaixo:**:
    - **exemplo atividade**:
      ```
      gcc atividadeDestinada.c -o atividadeDestinada -Wall
